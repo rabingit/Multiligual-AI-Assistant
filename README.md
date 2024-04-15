@@ -53,4 +53,23 @@ open up localhost:
 - t2s
 
 
+### git commands
 
+```bash
+git init
+```
+```bash
+git add README.md
+```
+```bash
+git commit -m "first commit"
+```
+```bash
+git branch -M main
+```
+```bash
+git remote add origin https://github.com/rabingit/Multiligual-AI-Assistant.git
+```
+```bash
+git push -u origin main
+```
