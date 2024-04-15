@@ -73,3 +73,11 @@ git remote add origin https://github.com/rabingit/Multiligual-AI-Assistant.git
 ```bash
 git push -u origin main
 ```
+
+```bash
+git remote -v
+```
+
+```bash
+git remote set-url origin https://github.com/rabingit/Multiligual-AI-Assistant.git
+```
